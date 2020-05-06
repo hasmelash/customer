@@ -1,0 +1,7 @@
+---
+applications:
+  - name: customer-app-api
+    memory: 64M
+    services:
+      -customerdb
+
